@@ -1,5 +1,5 @@
 # BSS - Restaurant Management System
-Restaurant Management System for Bangladesh Software Solution (BSS), built with Angular as the frontend framework and ASP.NET Core 9.0 as the backend framework.
+Restaurant Management System  built with Angular as the frontend framework and ASP.NET Core 9.0 as the backend framework.
 
  - **Live demo:** https://restaurant.farvez.me or https://bss-rms.vercel.app/
  - **API Documentation:** http://bssrms.runasp.net/swagger/index.html
